@@ -1,0 +1,15 @@
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\bin\Debug\TravelAppExam.exe.config
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\bin\Debug\TravelAppExam.exe
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\bin\Debug\TravelAppExam.pdb
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.csprojAssemblyReference.cache
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\MainWindow.g.cs
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\App.g.cs
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam_MarkupCompile.cache
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam_MarkupCompile.lref
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\MainWindow.baml
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.g.resources
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.Properties.Resources.resources
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.csproj.GenerateResource.cache
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.csproj.CoreCompileInputs.cache
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.exe
+C:\Sim_IPD-program\course contents\12..NET_VB_C#\Exam\Exam1\TravelAppExam\obj\Debug\TravelAppExam.pdb

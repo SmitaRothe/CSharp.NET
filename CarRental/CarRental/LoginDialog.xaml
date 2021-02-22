@@ -1,0 +1,18 @@
+﻿<Window x:Class="CarRental.Index"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarRental"
+        mc:Ignorable="d"
+        Title="Car Rental JACar" Height="450" Width="800">
+    <Grid>
+        <Image Source="Images/Car-Rental-Login.jpg" HorizontalAlignment="Left" Height="346" Margin="10,10,0,0" VerticalAlignment="Top" Width="776"/>
+        <Button Click="btnLogin_Click" Name="btnLogin" Background="Orange" Content="Log In" HorizontalAlignment="Left" Margin="330,356,0,0" VerticalAlignment="Top" Width="138" Height="42"/>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="23" Margin="330,280,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="138"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="246,280,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="246,319,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="273,31,0,0" TextWrapping="Wrap" FontWeight="ExtraBlack" FontSize="35" FontFamily="Verdun" Text="JA Car Rental" VerticalAlignment="Top"/>
+        <PasswordBox Name="txtPassword" HorizontalAlignment="Left" Margin="330,319,0,0" VerticalAlignment="Top" Width="138" Height="23"/>
+    </Grid>
+</Window>

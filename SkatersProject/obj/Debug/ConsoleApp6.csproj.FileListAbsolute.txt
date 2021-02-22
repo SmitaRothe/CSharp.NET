@@ -1,0 +1,14 @@
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\rothe_yffku\source\repos\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\bin\Debug\ConsoleApp6.exe.config
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\bin\Debug\ConsoleApp6.exe
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\bin\Debug\ConsoleApp6.pdb
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\obj\Debug\ConsoleApp6.exe
+C:\Sim_IPD-program\course contents\11.dot_net_programming\Project\dot_net_Project_SmitaR\SkatersProject\obj\Debug\ConsoleApp6.pdb
